@@ -1,0 +1,11 @@
+[package]
+name = "regex"
+version = "0.1.0"
+authors = [ "Siddharth C"]
+
+[dependencies]
+regex = "0.2"
+
+[[bin]]
+name="test.rs"
+path="/Documents/patterns/test.rs"
