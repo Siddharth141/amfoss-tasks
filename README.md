@@ -26,7 +26,7 @@ task-10:Yet to complete
 
 task-11:Completed creating a multiplayer pong game using javascript
 
-task-12:Yet to complete
+task-12:Completed
 
 task-13:Completed 3 project euler questions using java
 
