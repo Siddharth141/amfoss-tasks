@@ -14,7 +14,7 @@ task-4:Yet to complete
 
 task-5:Yet to complete
 
-task-6:Yet to complete
+task-6:Completed ,took the help of dghubble
 
 task-7:Completed the code ,but there is one compilation error which I am not able to correct
 
